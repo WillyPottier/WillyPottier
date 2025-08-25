@@ -42,8 +42,8 @@ Je suis un **développeur et entrepreneur passionné** par le web, les projets t
 ---
 
 ## 🤝 Me contacter
-📩 [Mail](mailto:wpotti748@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/willy-pottier-8a831b258/) 
+📩 [Mail](mailto:wpotti748@gmail.com)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/willy-pottier-8a831b258/)<br>
 📸 [Instagram](https://www.instagram.com/devbywilly/)
 
 ---
